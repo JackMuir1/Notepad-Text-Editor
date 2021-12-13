@@ -1,0 +1,7 @@
+﻿  Editor.cpp
+C:\Users\Jack\Desktop\Notepad\Notepad\Editor.cpp(55,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Jack\Desktop\Notepad\Notepad\Editor.cpp(55,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Main.cpp
+  Node.cpp
+  Generating Code...
+  Notepad.vcxproj -> C:\Users\Jack\Desktop\Notepad\Debug\Notepad.exe
